@@ -1,5 +1,7 @@
 ajax.aspnetcdn.com
 analog.com
+avg.com
+bitdefender.com
 bits.avcdn.net
 cadence.com
 compsoc.eu
@@ -7,10 +9,14 @@ cydiaimpactor.com
 dell.com
 desipro.de
 digikey.com
+e-katalog.com.ua
+e-katalog.ua
+ek.ua
 formula1.com
 freescale.com
 freesmug.org
 ghidra-sre.org
+grammarly.com
 hp.com
 iherb.com
 intel.com
@@ -20,9 +26,11 @@ linksysinfo.org
 londonstockexchange.com
 lseg.com
 macpaw.com
+malwarebytes.com
 microfocus.com
 microsoft.com
 netflix.com
+nic.ua
 nxp.com
 qt.io
 qualcomm.com
