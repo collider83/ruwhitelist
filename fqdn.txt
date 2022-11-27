@@ -35,6 +35,7 @@ nxp.com
 qt.io
 qualcomm.com
 quora.com
+sans.edu
 spotify.com
 themoviedb.org
 tsmc.com
