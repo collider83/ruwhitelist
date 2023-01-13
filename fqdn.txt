@@ -5,6 +5,7 @@ bitdefender.com
 bits.avcdn.net
 cadence.com
 compsoc.eu
+cvedetails.com
 cydiaimpactor.com
 dell.com
 desipro.de
