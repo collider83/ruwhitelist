@@ -35,6 +35,7 @@ macpaw.com
 malwarebytes.com
 microfocus.com
 microsoft.com
+mpc.edu
 netflix.com
 nic.ua
 nxp.com
@@ -42,6 +43,8 @@ qt.io
 qualcomm.com
 quora.com
 sans.edu
+square.com
+squareup.com
 spotify.com
 themoviedb.org
 tsmc.com
