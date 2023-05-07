@@ -1,5 +1,6 @@
 ajax.aspnetcdn.com
 analog.com
+att.com
 avg.com
 bitdefender.com
 bits.avcdn.net
@@ -21,6 +22,7 @@ freesmug.org
 ghidra-sre.org
 gmu.edu
 grammarly.com
+h3c.com
 hp.com
 hybrid-analysis.com
 iherb.com
