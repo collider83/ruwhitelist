@@ -48,6 +48,7 @@ sans.edu
 square.com
 squareup.com
 spotify.com
+tenable.com
 themoviedb.org
 tsmc.com
 weather.com
