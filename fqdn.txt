@@ -45,6 +45,7 @@ qt.io
 qualcomm.com
 quora.com
 sans.edu
+seagate.com
 square.com
 squareup.com
 spotify.com
