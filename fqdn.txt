@@ -12,6 +12,7 @@ dell.com
 desipro.de
 digikey.com
 dso.mil
+dtic.mil
 e-katalog.com.ua
 e-katalog.ua
 elastic.co
@@ -27,6 +28,7 @@ hp.com
 hybrid-analysis.com
 iherb.com
 intel.com
+intel.de
 intuitibits.com
 jumpcloud.com
 lenovo.com
@@ -35,6 +37,7 @@ londonstockexchange.com
 lseg.com
 macpaw.com
 malwarebytes.com
+microchip.com 
 microfocus.com
 microsoft.com
 mpc.edu
