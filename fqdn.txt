@@ -44,6 +44,7 @@ mpc.edu
 netflix.com
 nic.ua
 nxp.com
+parsec.app
 qt.io
 qualcomm.com
 quora.com
