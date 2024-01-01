@@ -36,6 +36,7 @@ linksysinfo.org
 londonstockexchange.com
 lseg.com
 macpaw.com
+macvendors.com
 malwarebytes.com
 microchip.com 
 microfocus.com
