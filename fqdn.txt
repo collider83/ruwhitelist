@@ -1,4 +1,5 @@
 ajax.aspnetcdn.com
+all3dp.com
 analog.com
 att.com
 avg.com
@@ -15,8 +16,8 @@ dso.mil
 dtic.mil
 e-katalog.com.ua
 e-katalog.ua
-elastic.co
 ek.ua
+elastic.co
 formula1.com
 freescale.com
 freesmug.org
@@ -46,14 +47,15 @@ netflix.com
 nic.ua
 nxp.com
 parsec.app
+qcad.org
 qt.io
 qualcomm.com
 quora.com
 sans.edu
 seagate.com
+spotify.com
 square.com
 squareup.com
-spotify.com
 tenable.com
 themoviedb.org
 tsmc.com
