@@ -51,6 +51,7 @@ qcad.org
 qt.io
 qualcomm.com
 quora.com
+ribbonsoft.com
 sans.edu
 seagate.com
 spotify.com
@@ -59,5 +60,6 @@ squareup.com
 tenable.com
 themoviedb.org
 tsmc.com
+upv.es
 weather.com
 wikidot.com
