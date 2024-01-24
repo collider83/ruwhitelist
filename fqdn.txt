@@ -22,6 +22,7 @@ formula1.com
 freescale.com
 freesmug.org
 ghidra-sre.org
+gmplib.org
 gmu.edu
 grammarly.com
 h3c.com
