@@ -6,6 +6,7 @@ avg.com
 bitdefender.com
 bits.avcdn.net
 cadence.com
+cisco.com
 compsoc.eu
 cvedetails.com
 cydiaimpactor.com
