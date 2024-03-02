@@ -5,6 +5,7 @@ att.com
 avg.com
 bitdefender.com
 bits.avcdn.net
+bosch-home.com
 cadence.com
 cisco.com
 compsoc.eu
