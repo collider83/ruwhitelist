@@ -48,6 +48,7 @@ microchip.com
 microfocus.com
 microsoft.com
 mpc.edu
+multisim.com
 netflix.com
 nic.ua
 nxp.com
