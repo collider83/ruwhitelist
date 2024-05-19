@@ -8,6 +8,7 @@ bits.avcdn.net
 bosch-home.co.nz
 bosch-home.com
 bosch-home.com.sg
+bosch-professional.com
 cadence.com
 cisco.com
 compsoc.eu
@@ -22,12 +23,14 @@ e-katalog.com.ua
 e-katalog.ua
 ek.ua
 elastic.co
+etsy.com
 formula1.com
 freescale.com
 freesmug.org
 ghidra-sre.org
 gmplib.org
 gmu.edu
+grafana.com
 grammarly.com
 h3c.com
 hp.com
@@ -65,6 +68,8 @@ square.com
 squareup.com
 tenable.com
 themoviedb.org
+thoughtworks.com
+ti.com
 tsmc.com
 upv.es
 weather.com
