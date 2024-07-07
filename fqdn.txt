@@ -12,6 +12,7 @@ bosch-professional.com
 cadence.com
 cisco.com
 compsoc.eu
+coverity.com
 cvedetails.com
 cydiaimpactor.com
 dell.com
@@ -36,8 +37,10 @@ h3c.com
 hp.com
 hybrid-analysis.com
 iherb.com
+insanelymac.com
 intel.com
 intel.de
+intel.sg
 intuitibits.com
 jumpcloud.com
 lenovo.com
@@ -56,6 +59,7 @@ netflix.com
 nic.ua
 nxp.com
 parsec.app
+performance-pcs.com
 qcad.org
 qt.io
 qualcomm.com
