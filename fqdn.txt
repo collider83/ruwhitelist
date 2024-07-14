@@ -60,6 +60,7 @@ nic.ua
 nxp.com
 parsec.app
 performance-pcs.com
+play.gooogle.com
 qcad.org
 qt.io
 qualcomm.com
