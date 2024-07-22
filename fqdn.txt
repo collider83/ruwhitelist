@@ -13,6 +13,7 @@ cadence.com
 cisco.com
 compsoc.eu
 coverity.com
+csagroup.org
 cvedetails.com
 cydiaimpactor.com
 dell.com
@@ -31,9 +32,11 @@ freesmug.org
 ghidra-sre.org
 gmplib.org
 gmu.edu
+gmv.com
 grafana.com
 grammarly.com
 h3c.com
+hardwaremarket.net
 hp.com
 hybrid-analysis.com
 iherb.com
@@ -45,6 +48,7 @@ intuitibits.com
 jumpcloud.com
 lenovo.com
 linksysinfo.org
+lists.gnu.org
 londonstockexchange.com
 lseg.com
 macpaw.com
@@ -53,11 +57,13 @@ malwarebytes.com
 microchip.com 
 microfocus.com
 microsoft.com
+mouser.com
 mpc.edu
 multisim.com
 netflix.com
 nic.ua
 nxp.com
+out7.hex-rays.com
 parsec.app
 performance-pcs.com
 play.gooogle.com
