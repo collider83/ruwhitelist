@@ -63,6 +63,7 @@ multisim.com
 netflix.com
 nic.ua
 nxp.com
+openai.com
 out7.hex-rays.com
 parsec.app
 performance-pcs.com
