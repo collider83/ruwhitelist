@@ -31,6 +31,7 @@ freescale.com
 freesmug.org
 ghidra-sre.org
 gmplib.org
+ghs.com
 gmu.edu
 gmv.com
 grafana.com
@@ -43,6 +44,7 @@ iherb.com
 insanelymac.com
 intel.com
 intel.de
+intel.se
 intel.sg
 intuitibits.com
 jumpcloud.com
@@ -67,6 +69,7 @@ openai.com
 out7.hex-rays.com
 parsec.app
 performance-pcs.com
+pcspecialist.co.uk
 play.gooogle.com
 qcad.org
 qt.io
