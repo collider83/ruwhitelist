@@ -1,3 +1,4 @@
+adam-audio.com
 ajax.aspnetcdn.com
 all3dp.com
 analog.com
@@ -39,6 +40,7 @@ grafana.com
 grammarly.com
 h3c.com
 hardwaremarket.net
+home-connect.com
 hp.com
 hybrid-analysis.com
 iherb.com
@@ -49,9 +51,11 @@ intel.se
 intel.sg
 intuitibits.com
 jumpcloud.com
+krea.ai
 lenovo.com
 linkshare.pro
 linksysinfo.org
+linuxiac.com
 lists.gnu.org
 londonstockexchange.com
 lseg.com
@@ -71,6 +75,7 @@ nxp.com
 openai.com
 out7.hex-rays.com
 parsec.app
+pcgamesn.com
 pcspecialist.co.uk
 performance-pcs.com
 play.gooogle.com
@@ -78,9 +83,11 @@ qcad.org
 qt.io
 qualcomm.com
 quora.com
+renesas.com
 ribbonsoft.com
 sans.edu
 seagate.com
+softwareupdate.vmware.com
 spotify.com
 square.com
 squareup.com
@@ -90,5 +97,6 @@ thoughtworks.com
 ti.com
 tsmc.com
 upv.es
+virtualizationhowto.com
 weather.com
 wikidot.com
