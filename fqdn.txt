@@ -4,6 +4,7 @@ all3dp.com
 analog.com
 att.com
 avg.com
+avira.com
 bitdefender.com
 bits.avcdn.net
 bosch-home.co.nz
@@ -20,6 +21,7 @@ cydiaimpactor.com
 dell.com
 desipro.de
 digikey.com
+docs.vmware.com
 dso.mil
 dtic.mil
 e-katalog.com.ua
@@ -50,6 +52,7 @@ intel.de
 intel.se
 intel.sg
 intuitibits.com
+jiosaavn.com
 jumpcloud.com
 krea.ai
 lenovo.com
@@ -65,6 +68,7 @@ malwarebytes.com
 microchip.com 
 microfocus.com
 microsoft.com
+mikrocontroller.net
 mouser.com
 mpc.edu
 multisim.com
@@ -74,6 +78,7 @@ nic.ua
 nxp.com
 openai.com
 out7.hex-rays.com
+parallels.com
 parsec.app
 pcgamesn.com
 pcspecialist.co.uk
@@ -92,11 +97,13 @@ softwareupdate.vmware.com
 spotify.com
 square.com
 squareup.com
+techfun.sk
 tenable.com
 themoviedb.org
 thoughtworks.com
 ti.com
 tsmc.com
+underground-revolution.eu
 upv.es
 virtualizationhowto.com
 weather.com
