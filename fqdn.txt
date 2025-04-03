@@ -11,13 +11,18 @@ bosch-home.co.nz
 bosch-home.com
 bosch-home.com.sg
 bosch-professional.com
+broadcom.com
+bsh-group.com
 cadence.com
 cisco.com
+comazo.de
 compsoc.eu
+corsair.com
 coverity.com
 csagroup.org
 cvedetails.com
 cydiaimpactor.com
+deezer.com
 dell.com
 desipro.de
 digikey.com
@@ -28,6 +33,7 @@ e-katalog.com.ua
 e-katalog.ua
 ek.ua
 elastic.co
+espares.ie
 etsy.com
 formula1.com
 freediscussions.com
@@ -45,6 +51,7 @@ hardwaremarket.net
 home-connect.com
 hp.com
 hybrid-analysis.com
+icode4.coffee
 iherb.com
 insanelymac.com
 intel.com
@@ -81,10 +88,12 @@ out7.hex-rays.com
 parallels.com
 parsec.app
 pcgamesn.com
+pcmag.com
 pcspecialist.co.uk
 performance-pcs.com
 play.gooogle.com
 qcad.org
+qobuz.com
 qt.io
 qualcomm.com
 quora.com
