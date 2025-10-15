@@ -127,7 +127,6 @@ seagate.com
 singlekey-id.com
 sophos.com
 spiceworks.com
-spiceworks.com
 spotify.com
 square.com
 squareup.com
@@ -135,7 +134,6 @@ sslforfree.com
 station-drivers.com
 synoforum.com
 techfun.sk
-tenable.com
 tenable.com
 themoviedb.org
 thoughtworks.com
