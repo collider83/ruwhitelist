@@ -15,6 +15,9 @@ bosch-professional.com
 broadcom.com
 bsh-group.com
 cadence.com
+canon.com
+canon-europe.com
+canva.com
 chassimages.com
 chatgpt.com
 chipestimate.com
@@ -147,6 +150,7 @@ vios.io
 virtualizationhowto.com
 vlsearch.org
 vmware.com
+wallpaperswide.com
 wdfiles.com
 weather.com
 weebly.com
