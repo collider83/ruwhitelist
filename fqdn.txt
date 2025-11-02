@@ -5,6 +5,7 @@ all3dp.com
 analog.com
 att.com
 avg.com
+avid.com
 avira.com
 bitdefender.com
 bits.avcdn.net
@@ -15,8 +16,8 @@ bosch-professional.com
 broadcom.com
 bsh-group.com
 cadence.com
-canon.com
 canon-europe.com
+canon.com
 canva.com
 chassimages.com
 chatgpt.com
@@ -35,6 +36,7 @@ dell.com
 delltechnologies.com
 desipro.de
 digikey.com
+digikey.sg
 dogpile.com
 dso.mil
 dtic.mil
@@ -102,8 +104,10 @@ myfonts.com
 netflix.com
 newark.com
 nic.ua
+nsa.gov
 nvidianews.nvidia.com
 nxp.com
+onlinesim.io
 openai.com
 oracle.com
 out7.hex-rays.com
@@ -128,6 +132,7 @@ renesas.com
 ribbonsoft.com
 sans.edu
 seagate.com
+shopee.tw
 singlekey-id.com
 sophos.com
 spiceworks.com
