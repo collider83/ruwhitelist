@@ -1,5 +1,6 @@
 adam-audio.com
 adtran.com
+aida64.com
 ajax.aspnetcdn.com
 all3dp.com
 analog.com
@@ -49,6 +50,7 @@ espares.ie
 etsy.com
 extabit.com
 extremetech.com
+fansub.com.br
 filehippo.com
 formula1.com
 freediscussions.com
@@ -160,8 +162,10 @@ virtualizationhowto.com
 vlsearch.org
 vmware.com
 wallpaperswide.com
+wbgames.com
 wdfiles.com
 weather.com
 weebly.com
 wikidot.com
+xrite.com
 zomato.com
