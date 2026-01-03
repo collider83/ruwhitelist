@@ -8,6 +8,7 @@ att.com
 avg.com
 avid.com
 avira.com
+bestbuy.com
 bitdefender.com
 bits.avcdn.net
 bosch-home.co.nz
@@ -46,6 +47,7 @@ e-katalog.ua
 egnyte.com
 ek.ua
 elastic.co
+esa.int
 espares.ie
 etsy.com
 extabit.com
@@ -56,6 +58,7 @@ formula1.com
 freediscussions.com
 freescale.com
 freesmug.org
+gadgetversus.com
 ghidra-sre.org
 ghs.com
 gmplib.org
@@ -115,6 +118,7 @@ nxp.com
 onlinesim.io
 openai.com
 oracle.com
+otawa.fr
 out7.hex-rays.com
 parallels.com
 parsec.app
@@ -168,5 +172,7 @@ wdfiles.com
 weather.com
 weebly.com
 wikidot.com
+windriver.com
+wrs.com
 xrite.com
 zomato.com
