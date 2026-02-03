@@ -135,6 +135,7 @@ otawa.fr
 out7.hex-rays.com
 parallels.com
 parsec.app
+patreon.com
 pcgamesn.com
 pcmag.com
 pcspecialist.co.uk
@@ -183,6 +184,7 @@ upv.es
 usa.canon.com
 veeam.com
 vmware.com
+watchguard.com
 wbagora.com
 wbgames.com
 wdfiles.com
