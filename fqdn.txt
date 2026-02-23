@@ -125,6 +125,7 @@ nic.ua
 notebooklm.google
 notebooklm.google.com
 nsa.gov
+ntfsformac.tuxera.com
 nvidianews.nvidia.com
 nxp.com
 oaiusercontent.com
@@ -145,6 +146,7 @@ pengwin.ca
 perforce.com
 perplexity.ai
 pi.ai
+pny.com
 poe.com
 prh.com
 proactivebackend-pa.googleapis.com
@@ -171,6 +173,7 @@ squareup.com
 sslforfree.com
 stability.ai
 station-drivers.com
+store.fastspring.com
 strava.com
 synoforum.com
 tenable.com
@@ -192,6 +195,7 @@ weather.com
 weebly.com
 wikidot.com
 windriver.com
+wise.com
 wrs.com
 x.ai
 xrite.com
