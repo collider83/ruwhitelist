@@ -3,14 +3,12 @@ adtran.com
 ai.google.dev
 aisandbox-pa.googleapis.com
 aistudio.google.com
-aistudiocdn.com
 ajax.aspnetcdn.com
 alkalimakersuite-pa.clients6.google.com
 all3dp.com
 analog.com
 anthropic.com
 att.com
-avg.com
 avid.com
 avira.com
 bard.google.com
@@ -26,7 +24,6 @@ broadcom.com
 bsh-group.com
 cadence.com
 canva.com
-chassimages.com
 chatgpt.com
 chipestimate.com
 cisco.com
@@ -36,7 +33,6 @@ comazo.de
 compsoc.eu
 copilot.microsoft.com
 corsair.com
-coverity.com
 csagroup.org
 cvedetails.com
 deepl.com
@@ -64,7 +60,6 @@ filehippo.com
 formula1.com
 freediscussions.com
 freescale.com
-gadgetversus.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
@@ -130,7 +125,6 @@ pcmag.com
 pcspecialist.co.uk
 pdfexpert.com
 penguinrandomhouse.com
-pengwin.ca
 perforce.com
 pi.ai
 pny.com
@@ -140,7 +134,6 @@ qcad.org
 qobuz.com
 qt.io
 qualcomm.com
-renesas.com
 repo.hu
 ribbonsoft.com
 robinfrontend-pa.googleapis.com
@@ -164,7 +157,6 @@ themoviedb.org
 ti.com
 tidal.com
 tsmc.com
-udio.com
 underground-revolution.eu
 upv.es
 usa.canon.com
@@ -182,5 +174,4 @@ wise.com
 wrs.com
 x.ai
 xrite.com
-you.com
 zomato.com
