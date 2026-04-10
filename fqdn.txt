@@ -26,14 +26,12 @@ broadcom.com
 bsh-group.com
 cadence.com
 canva.com
-character.ai
 chassimages.com
 chatgpt.com
 chipestimate.com
 cisco.com
 claude.ai
 codebrowser.dev
-cohere.ai
 comazo.de
 compsoc.eu
 copilot.microsoft.com
@@ -58,8 +56,6 @@ e-katalog.com.ua
 e-katalog.ua
 ek.ua
 elastic.co
-epson.biz
-esa.int
 espares.ie
 etsy.com
 extabit.com
@@ -85,7 +81,6 @@ grok.com
 home-connect.com
 hostinger.com
 hp.com
-huggingface.co
 hybrid-analysis.com
 iherb.com
 infosecinstitute.com
@@ -96,7 +91,6 @@ intel.de
 intel.se
 intel.sg
 intuitibits.com
-jiosaavn.com
 jules.google
 jules.google.com
 klarna.com
@@ -105,7 +99,6 @@ lenovo.com
 linuxiac.com
 londonstockexchange.com
 lseg.com
-macintoshrepository.org
 macpaw.com
 makersuite.google.com
 mattermost.com
@@ -114,13 +107,9 @@ metacrawler.com
 microchip.com 
 microfocus.com
 microsoft.com
-midjourney.com
 mikrocontroller.net
-mistral.ai
 mouser.com
-mpc.edu
 multisim.com
-musicgpt.com
 netflix.com
 newark.com
 nic.ua
@@ -136,7 +125,6 @@ openai.com
 oracle.com
 otawa.fr
 out7.hex-rays.com
-parallels.com
 parsec.app
 patreon.com
 pcgamesn.com
@@ -146,10 +134,8 @@ pdfexpert.com
 penguinrandomhouse.com
 pengwin.ca
 perforce.com
-perplexity.ai
 pi.ai
 pny.com
-poe.com
 prh.com
 proactivebackend-pa.googleapis.com
 qcad.org
@@ -157,7 +143,6 @@ qobuz.com
 qt.io
 qualcomm.com
 renesas.com
-replicate.com
 repo.hu
 ribbonsoft.com
 robinfrontend-pa.googleapis.com
@@ -173,9 +158,6 @@ spiceworks.com
 spotify.com
 square.com
 squareup.com
-sslforfree.com
-stability.ai
-station-drivers.com
 store.fastspring.com
 strava.com
 synoforum.com
