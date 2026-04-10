@@ -119,7 +119,6 @@ ntfsformac.tuxera.com
 nvidianews.nvidia.com
 nxp.com
 oaiusercontent.com
-onlinesim.io
 openai.com
 oracle.com
 otawa.fr
